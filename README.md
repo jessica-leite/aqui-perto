@@ -6,7 +6,7 @@
 
 ## 📸 Interface
 
-![Tela inicial do Aqui Perto](imagens/aqui-perto-home.png?raw=true)
+![Tela inicial do Aqui Perto]([imagens/aqui-perto-home.png?raw=true](https://github.com/jessica-leite/aqui-perto/blob/main/mainPage.png))
 
 ---
 
